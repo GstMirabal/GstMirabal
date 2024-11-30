@@ -1,6 +1,4 @@
 # 👨‍💻 @GstMirabal
-
-> 🚀 *I am a programmer, constantly learning and seeking my first professional opportunity in the tech world.*  
 ---
 ## 🎯 About Me  
 - 🏠 Location: **Madrid, Spain**  
