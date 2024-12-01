@@ -41,7 +41,8 @@ A REST API for receiving TradingView webhook signals and sending them to the Bin
 
 ## 📫 How to Contact Me  
 
-Seeking new opportunities and challenges to keep learning and growing in this field.  
+*Seeking new opportunities and challenges to keep learning and growing in this field.*
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gustavo-adolfo-mirabal-suarez-ab2738127/)  
 ![Correo](https://img.shields.io/badge/Email-gst.mirabal%40gmail.com-red?style=flat&logo=gmail)
 ---
