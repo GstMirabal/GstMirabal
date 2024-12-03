@@ -13,11 +13,8 @@
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat&logo=python)
 
 ### Frameworks and Tools  
-![Django](https://img.shields.io/badge/Django-4.2-green?style=flat&logo=django)  
-![Django Rest Framework](https://img.shields.io/badge/Django%20Rest%20Framework-3.14-blue?style=flat&logo=django)  
-![SQL](https://img.shields.io/badge/SQL-Database-blue?style=flat&logo=postgresql)  
-![GitHub](https://img.shields.io/badge/GitHub-Platform-black?style=flat&logo=github)  
-![Docker](https://img.shields.io/badge/Docker-Container-blue?style=flat&logo=docker)
+![Django](https://img.shields.io/badge/Django-4.2-green?style=flat&logo=django)    ![Django Rest Framework](https://img.shields.io/badge/Django%20Rest%20Framework-3.14-blue?style=flat&logo=django)    ![SQL](https://img.shields.io/badge/SQL-Database-blue?style=flat&logo=postgresql)  
+![GitHub](https://img.shields.io/badge/GitHub-Platform-black?style=flat&logo=github)    ![Docker](https://img.shields.io/badge/Docker-Container-blue?style=flat&logo=docker)
 ---
 
 ## 🚀 Featured Projects  
@@ -34,8 +31,7 @@ A REST API for receiving TradingView webhook signals and sending them to the Bin
 
 ## 📈 Statistics  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GstMirabal&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GstMirabal&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GstMirabal&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GstMirabal&layout=compact&theme=radical)  
 
 ---
 
@@ -43,6 +39,5 @@ A REST API for receiving TradingView webhook signals and sending them to the Bin
 
 *Seeking new opportunities and challenges to keep learning and growing in this field.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gustavo-adolfo-mirabal-suarez-ab2738127/)  
-![Correo](https://img.shields.io/badge/Email-gst.mirabal%40gmail.com-red?style=flat&logo=gmail)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gustavo-adolfo-mirabal-suarez-ab2738127/)    ![Correo](https://img.shields.io/badge/Email-gst.mirabal%40gmail.com-red?style=flat&logo=gmail)
 ---
